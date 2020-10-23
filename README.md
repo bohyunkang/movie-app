@@ -6,4 +6,4 @@ React JS Fundamentals Course
 
 ## Try it Out
 
-https://bohyunkang.github.io/movie-app/
+https://bohyunkang.github.io/movie_app/
